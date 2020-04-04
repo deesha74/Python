@@ -6,4 +6,4 @@ def av_para(n):
     avg = sum_n / len(n)
     return avg
 
-print("The average is : ", av_para([18,25,3,41,5]))
+print("The average is : ", av_para([12,23,34,45,56]))
