@@ -1,0 +1,4 @@
+a=str(input("Enter Name: "))
+b=int(input("Enter Year: "))
+c=str(input("Enter Class: "))
+print("Name: ",a,"\nYear: ",b,"\nClass: ",c)
